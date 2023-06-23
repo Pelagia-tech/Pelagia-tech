@@ -1,2 +1,2 @@
-I am an Informatics student who is very passionate about learning data science. I’m currently working on completing data science courses with Udemy as well as freecode camp where I'm learning data anlysis with python.
+I am a passion driven person who is ecstatic and eager to learn, all there is to know about Data Analytics. I find myself luring in books and mentors so as to get a stiff grip of knowledge and understanding. 
 - 😄 Pronouns: She/her
